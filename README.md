@@ -212,9 +212,4 @@ Jika menemukan bug, silakan laporkan dengan informasi:
 
 **[⬆ Back to top](#kalkulator-sederhana)**
 
-Made with ❤️ using HTML, CSS & JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://username.github.io/kalkulator-sederhana)
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge)](https://github.com/username/kalkulator-sederhana/archive/refs/heads/main.zip)
-
 </div>
